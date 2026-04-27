@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm [Apostolos]!
 
 ### 👨‍💻 Computer Engineering & Informatics Student | Video-Games Enthusiast
 
