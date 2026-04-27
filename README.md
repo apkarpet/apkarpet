@@ -37,7 +37,7 @@
 
 ## 📊 My Featured Repositories
 * 🍝 **[Clang](https://github.com/apkapet/Clang)**: My C programming labwork and logic puzzles.
-* ⚡ **[RISCV-Labs](https://github.com/apkarpet/RISCV)**: Assembly language and architecture projects.
+* ⚡ **[RISCV-Labs](https://github.com/apkarpet/RISC-V)**: Assembly language and architecture projects.
 
 ---
 
