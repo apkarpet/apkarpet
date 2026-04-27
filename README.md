@@ -1,11 +1,11 @@
-# 👋 Hi, I'm [Apostolos]!
+# 👋 Hi, I'm Apostolos!
 
 ### 👨‍💻 Computer Engineering & Informatics Student | Video-Games Enthusiast
 
 ---
 
 ## 🚀 About Me
-- 🎓 Currently studying Computer Science at **[University of Patras]**.
+- 🎓 Currently studying Computer Science at **University of Patras**.
 - 🛠️ Working on programming in **C** , **RISC-V Assembly**, **Python**.
 - 🐧 Proudly running on **Omarchy Linux**.
 - 🍕 Passionate about clean code and organized repositories.
