@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Apostolos!
 
-### 👨‍💻 Computer Engineering & Informatics Student | Video-Games Enthusiast
+### 👨‍💻 Computer Engineering & Informatics Student 
 
 ---
 
 ## 🚀 About Me
 - 🎓 Currently studying Computer Science at **University of Patras**.
 - 🛠️ Working on programming in **C** , **RISC-V Assembly**, **Python**.
-- 🐧 Proudly running on **Omarchy Linux**.
-- 🍕 Passionate about clean code and organized repositories.
+- 🐧 Running on **Omarchy Linux**.
 
 ---
 
@@ -36,7 +35,7 @@
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnumetadata&logoColor=white)
 ---
 
-## 📊 My Featured Kitchens (Repositories)
+## 📊 My Featured Repositories
 * 🍝 **[Clang](https://github.com/apkapet/Clang)**: My C programming labwork and logic puzzles.
 * ⚡ **[RISCV-Labs](https://github.com/apkarpet/RISCV)**: Assembly language and architecture projects.
 
