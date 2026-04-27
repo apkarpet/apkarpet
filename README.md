@@ -37,8 +37,8 @@
 ---
 
 ## 📊 My Featured Kitchens (Repositories)
-* 🍝 **[Clang](https://github.com/your-username/Clang)**: My C programming labwork and logic puzzles.
-* ⚡ **[RISCV-Labs](https://github.com/your-username/RISCV-Assembly-Labs)**: Assembly language and architecture projects.
+* 🍝 **[Clang](https://github.com/apkapet/Clang)**: My C programming labwork and logic puzzles.
+* ⚡ **[RISCV-Labs](https://github.com/apkarpet/RISCV)**: Assembly language and architecture projects.
 
 ---
 
