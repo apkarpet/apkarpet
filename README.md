@@ -7,6 +7,7 @@
 ## 🚀 About Me
 - 🎓 Currently studying Computer Science at **University of Patras**.
 - 🛠️ Working on programming in **C** , **RISC-V Assembly**, **Python**.
+- 🤝 Volunteer in **Association for Computer Machinery** - Upatras Student Chapter.
 - 🐧 Running on **Omarchy Linux**.
 
 ---
