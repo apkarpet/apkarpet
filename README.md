@@ -38,8 +38,13 @@
 ## University Work Repositories
 * **[Clang](https://github.com/apkapet/Clang)**: My C programming labwork and logic puzzles.
 * **[RISCV-Labs](https://github.com/apkarpet/RISC-V)**: Assembly language and architecture projects.
-
+* **[Compilers](https://github.com/apkarpet/Compilers)**: SQL Compiler and Python side Projects.
 ---
+
+## Misc:
+* Basketball enthusiast
+* Photography enthusiast
+* Volunteer
 
 ## How to Reach Me
 - 🌐 [https://www.linkedin.com/in/apostolos-karpetas-1962b31a7/]
